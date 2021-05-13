@@ -1,4 +1,4 @@
-- I’m @tony
+- I’m Tony
 - I'm working on Social Mart Protocol.
   Social Mart is a Dentralized Capital Formation Platform focusing on creating a valuable ecosystem for stakerholders of social media data.
 
